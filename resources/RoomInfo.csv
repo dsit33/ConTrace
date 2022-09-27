@@ -1,0 +1,31 @@
+RoomId,BuildingName,BuildingNo,RoomNo,Length,Width,StudentCapacity
+0, Bioresource and Agricultural Engineering,8,127,484,512,150
+1,Alan A. Erhart Agriculture,10,225,354,226,43
+2,Alan A. Erhart Agriculture,10,222,354,226,35
+3,Engineering West,21,115 (ME Lab),480,576,40
+4,Clyde P. Fisher Science,33,112,354,332,35
+5, Math and Science,38,218,263,362,35
+6,Math and Science,38,203,263,288,35
+7,Frank E. Pilling,14,135,367,240,35
+8,English,22,105,238,316,36
+9,English,22,107,238,283,35
+10,Engineering east,20,140,480,357,44
+11,Engineering east,20,72(circuits lab),588,333,36
+12, Cotchett education ,2,205,383,288,30
+13, Cotchett education ,2,213,388,288,40
+14,Science,52,14,384,348,40
+15,Science,52,15,264,348,30
+16,Graphic arts,26,202,111,438,30
+17,Graphic arts,26,106,386,396,50
+18,Clyde P. Fisher Science,33,286,548,468,150
+19, Baker Science,180,114,432,474,96
+20, Baker Science,180,101,747,699,134
+21,Baker Science,180,113,427,368,48
+22, Baker Science,180,112,378,368,40
+23, Alan A. Erhart Agriculture,10,128,354,599,48
+24, Alan A. Erhart Agriculture,10,115,234,306,38
+25, Engineering IV,192,121,402,440,40
+26, Engineering IV,192,118,444,440,36
+27, Engineering IV,192,116,450,440,43
+28, Engineering IV,192,105,732,594,133
+29,Construction Innovations Center,186,C202,300,354,48
